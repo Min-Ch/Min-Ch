@@ -15,11 +15,19 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Min-Ch)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h3 align="center">TECH SKILLS</h3>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></br>
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cm9542@gmail.com)](mailto:cm9542@gmail.com)
+<h3 align="center">Contact Me!</h3>
+<div align=center>
+<a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp
+
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cm9542@gmail.com)](mailto:cm9542@gmail.com)
 
 </div>
 
