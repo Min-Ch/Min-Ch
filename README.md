@@ -25,7 +25,7 @@
 
 <h3 align="center">Contact Me!</h3>
 <div align=center>
-<a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp
+<a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>
 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cm9542@gmail.com)](mailto:cm9542@gmail.com)
 
