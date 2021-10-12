@@ -26,6 +26,7 @@
 
 <h3 align="center">Contact Me!</h3>
 <div align=center>
+  <a href="https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"/></a>&nbsp
   <a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp
   <a href="mailto:cm9542@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cm9542@gmail.com"/></a>
 </div>
