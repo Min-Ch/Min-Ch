@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header" /></div>
+
 
 <div align=right>
   
@@ -6,8 +6,8 @@
   
 </div>
 
-<div align=center>
-  <h3 align="center"> Back-End Engineer </h3>
+<div align=center>  
+  <div align=center><img src="https://capsule-render.vercel.app/api?type=rect&text=Back-End%20Engineer&color=auto&fontSize=45&animation=scaleIn&fontColor=FFFFFF&height=90&section=header" /></div>
   
   <div>
     새로운 기술을 배우는 것에 흥미를 느끼며,<br>
