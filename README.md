@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header" /></div>
 
 
 
@@ -29,7 +29,16 @@
   <img src="https://img.shields.io/static/v1?style=flat-square&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label="/></a>
 </div>
 
-<h3 align="center">Contact Me!</h3>
+<h3 align="center">Tools</h3>
+<div align=center>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=PyCharm&color=blue&logo=PyCharm&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=macOS&color=gray&logo=apple&logoColor=white&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=red&logo=GitLab&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=Asana&color=273347&logo=Asana&logoColor=FFFFFF&label="/></a>
+</div>
+
+<h3 align="center">Contacts</h3>
 <div align=center>
   <a href="https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"/></a>&nbsp
 <!--   <a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp -->
