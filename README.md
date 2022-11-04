@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20Home!&height=150&section=header" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" /></div>
 
 
 
@@ -26,11 +26,12 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label="/></a>
 </div>
 
 <h3 align="center">Contact Me!</h3>
 <div align=center>
   <a href="https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://atlantic-speedboat-cc3.notion.site/MIN-Choi-a62a2be39c704b0589c29832fb5530c1"/></a>&nbsp
-  <a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp
+<!--   <a href="https://velog.io/@cmin95"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cmin95"/></a>&nbsp -->
   <a href="mailto:cm9542@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cm9542@gmail.com"/></a>
 </div>
