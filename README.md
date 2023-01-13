@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/static/v1?style=flat-square&message=macOS&color=gray&logo=apple&logoColor=white&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=red&logo=GitLab&logoColor=FFFFFF&label="/></a>
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=Asana&color=273347&logo=Asana&logoColor=FFFFFF&label="/></a>
 
   <h3 align="center">Contacts</h3>
 
