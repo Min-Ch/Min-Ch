@@ -23,18 +23,26 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=Typescript&color=blue&logo=typescript&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=NestJs&color=red&logo=nestjs&logoColor=FFFFFF&label="/></a>
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=postgres&color=blue&logo=postgresql&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label="/></a>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=FF9900"/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=Docker&color=blue&logo=docker&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=ElasticStack&color=66b5ae&logo=elasticstack&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=Github Actions&color=005571&logo=githubactions&logoColor=FFFFFF&label="/></a>
 
   <h3 align="center">Tools</h3>
 
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=PyCharm&color=blue&logo=PyCharm&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=macOS&color=gray&logo=apple&logoColor=white&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=red&logo=GitLab&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=PyCharm&color=blue&logo=PyCharm&logoColor=FFFFFF&label="/></a>
+  <img src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ&color=black&logo=intellijidea&logoColor=FFFFFF&label="/></a>
 
   <h3 align="center">Contacts</h3>
 
