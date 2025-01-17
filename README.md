@@ -21,10 +21,7 @@
 
   <img src="https://img.shields.io/static/v1?style=flat-square&message=Typescript&color=blue&logo=typescript&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=NestJs&color=red&logo=nestjs&logoColor=FFFFFF&label="/></a>
-  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=postgres&color=blue&logo=postgresql&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=FF9900"/></a>
