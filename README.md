@@ -17,12 +17,8 @@
   
   <br>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Min-Ch)](https://github.com/anuraghazra/github-readme-stats)
-  
   <h3 align="center">TECH SKILLS</h3>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=Typescript&color=blue&logo=typescript&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=NestJs&color=red&logo=nestjs&logoColor=FFFFFF&label="/></a>
   <br>
