@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=FF9900"/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=Docker&color=blue&logo=docker&logoColor=FFFFFF&label="/></a>
   <img src="https://img.shields.io/static/v1?style=flat-square&message=ElasticStack&color=66b5ae&logo=elasticstack&logoColor=FFFFFF&label="/></a>
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=Github Actions&color=005571&logo=githubactions&logoColor=FFFFFF&label="/></a>
 
   <h3 align="left">Tools</h3>
 
